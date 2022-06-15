@@ -125,7 +125,7 @@ class _MyHomePageState extends State<MyHomePage> {
 # Instagram:
 https://www.instagram.com/seeman.th/
 # website:
-www.seemanthsindhukuttan.github.io
+www.seemanthsindhukuttan.github.io/
 # linkedIn:
 https://www.linkedin.com/in/seemanthsindhukuttan
 
