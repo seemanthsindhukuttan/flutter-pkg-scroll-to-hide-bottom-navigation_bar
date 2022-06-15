@@ -2,10 +2,13 @@
 
 A package that provides a simple wrapper to wrap your Bottom Navigation Bar widget, that lets you show a scroll to forward the Bottom Navigation Bar.
 
+## Feature
+- scroll to hide bottom navigation bar.
+- change hide animation.
+
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To use this package, add scroll_to_hide_bottom_navigation_bar as a dependency in your pubspec.yaml file.
 
 ## Usage
 
